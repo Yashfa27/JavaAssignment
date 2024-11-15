@@ -14,7 +14,7 @@ abstract class shape{
 
 class rectangle extends shape{
     @Override
-    public float area(){
+     float area(){
         System.out.println("width :" + width);
         System.out.println("height " + height);
         System.out.println("Area of rectangle is:" + width*height);
