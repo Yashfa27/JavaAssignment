@@ -30,6 +30,5 @@ public class Abstract {
     public static void main(String[] args) {
     shape shapeobj=new rectangle(10.5f,20.7f);
     shapeobj.area();
-
     }
 }

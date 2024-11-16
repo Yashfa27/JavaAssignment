@@ -11,7 +11,6 @@ class Box<T>{
         this.value=value;
     }
 
-
     public void printType(){
         System.out.println("This is " + value);
     }
