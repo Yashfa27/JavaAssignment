@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-11-18T06:05:37.884581200Z</date>
+  <millis>1731909937884</millis>
+  <nanos>581200</nanos>
+  <sequence>0</sequence>
+  <logger>MyPakage2.logger</logger>
+  <level>INFO</level>
+  <class>MyPakage2.logger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Info message logged to file and console</message>
+</record>
+<record>
+  <date>2024-11-18T06:05:37.978613Z</date>
+  <millis>1731909937978</millis>
+  <nanos>613000</nanos>
+  <sequence>1</sequence>
+  <logger>MyPakage2.logger</logger>
+  <level>WARNING</level>
+  <class>MyPakage2.logger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Warning message logged to file and console</message>
+</record>
+<record>
+  <date>2024-11-18T06:05:38.012845500Z</date>
+  <millis>1731909938012</millis>
+  <nanos>845500</nanos>
+  <sequence>2</sequence>
+  <logger>MyPakage2.logger</logger>
+  <level>SEVERE</level>
+  <class>MyPakage2.logger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Severe message logged to file and console</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-11-18T06:15:31.808449800Z</date>
+  <millis>1731910531808</millis>
+  <nanos>449800</nanos>
+  <sequence>0</sequence>
+  <logger>MyPakage2.logger</logger>
+  <level>INFO</level>
+  <class>MyPakage2.logger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Info message logged to file and console</message>
+</record>
+<record>
+  <date>2024-11-18T06:15:31.914363Z</date>
+  <millis>1731910531914</millis>
+  <nanos>363000</nanos>
+  <sequence>1</sequence>
+  <logger>MyPakage2.logger</logger>
+  <level>WARNING</level>
+  <class>MyPakage2.logger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Warning message logged to file and console</message>
+</record>
+<record>
+  <date>2024-11-18T06:15:31.916728700Z</date>
+  <millis>1731910531916</millis>
+  <nanos>728700</nanos>
+  <sequence>2</sequence>
+  <logger>MyPakage2.logger</logger>
+  <level>SEVERE</level>
+  <class>MyPakage2.logger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Severe message logged to file and console</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-11-18T06:15:50.548952300Z</date>
+  <millis>1731910550548</millis>
+  <nanos>952300</nanos>
+  <sequence>0</sequence>
+  <logger>MyPakage2.logger</logger>
+  <level>SEVERE</level>
+  <class>MyPakage2.logger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Severe message logged to file and console</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-11-18T06:18:59.525311100Z</date>
+  <millis>1731910739525</millis>
+  <nanos>311100</nanos>
+  <sequence>0</sequence>
+  <logger>MyPakage2.logger</logger>
+  <level>SEVERE</level>
+  <class>MyPakage2.logger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Severe message logged to file and console</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-11-18T06:22:26.255016500Z</date>
+  <millis>1731910946255</millis>
+  <nanos>16500</nanos>
+  <sequence>0</sequence>
+  <logger>MyPakage2.logger</logger>
+  <level>SEVERE</level>
+  <class>MyPakage2.logger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Severe message logged to file and console</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-11-18T06:22:36.135004Z</date>
+  <millis>1731910956135</millis>
+  <nanos>4000</nanos>
+  <sequence>0</sequence>
+  <logger>MyPakage2.logger</logger>
+  <level>SEVERE</level>
+  <class>MyPakage2.logger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Severe message logged to file and console</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-11-18T06:22:55.584993900Z</date>
+  <millis>1731910975584</millis>
+  <nanos>993900</nanos>
+  <sequence>0</sequence>
+  <logger>MyPakage2.logger</logger>
+  <level>WARNING</level>
+  <class>MyPakage2.logger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Warning message logged to file and console</message>
+</record>
+<record>
+  <date>2024-11-18T06:22:55.713386900Z</date>
+  <millis>1731910975713</millis>
+  <nanos>386900</nanos>
+  <sequence>1</sequence>
+  <logger>MyPakage2.logger</logger>
+  <level>SEVERE</level>
+  <class>MyPakage2.logger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Severe message logged to file and console</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-11-18T06:23:07.174967400Z</date>
+  <millis>1731910987174</millis>
+  <nanos>967400</nanos>
+  <sequence>0</sequence>
+  <logger>MyPakage2.logger</logger>
+  <level>INFO</level>
+  <class>MyPakage2.logger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Info message logged to file and console</message>
+</record>
+<record>
+  <date>2024-11-18T06:23:07.304650300Z</date>
+  <millis>1731910987304</millis>
+  <nanos>650300</nanos>
+  <sequence>1</sequence>
+  <logger>MyPakage2.logger</logger>
+  <level>WARNING</level>
+  <class>MyPakage2.logger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Warning message logged to file and console</message>
+</record>
+<record>
+  <date>2024-11-18T06:23:07.304650300Z</date>
+  <millis>1731910987304</millis>
+  <nanos>650300</nanos>
+  <sequence>2</sequence>
+  <logger>MyPakage2.logger</logger>
+  <level>SEVERE</level>
+  <class>MyPakage2.logger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Severe message logged to file and console</message>
+</record>
+</log>
+Nov 18, 2024 12:15:26 PM MyPakage2.logger main
+INFO: Info message logged to file and console
+Nov 18, 2024 12:15:26 PM MyPakage2.logger main
+WARNING: Warning message logged to file and console
+Nov 18, 2024 12:15:26 PM MyPakage2.logger main
+SEVERE: Severe message logged to file and console
+Nov 18, 2024 12:37:29 PM MyPakage2.logger main
+INFO: Info message logged to file and console
+Nov 18, 2024 12:37:29 PM MyPakage2.logger main
+WARNING: Warning message logged to file and console
+Nov 18, 2024 12:37:29 PM MyPakage2.logger main
+SEVERE: Severe message logged to file and console
